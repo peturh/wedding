@@ -2,7 +2,7 @@
 </script>
 
 <section>
-	<img alt="flower divider" src="./blomma_3.png" />
+	<img alt="flower divider" src="./divider-blomma.svg" />
 </section>
 
 <style lang="less">
