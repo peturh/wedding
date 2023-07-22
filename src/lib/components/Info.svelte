@@ -4,7 +4,7 @@
 
 <section class="top-section">
 	<h5>Bröllop för</h5>
-	<h1 class="title">Lisa & Pétur</h1>
+	<h1 class="title">Lisa <span class="ampersand">&</span> Pétur</h1>
 	<h5>Första Juni 2024</h5>
 </section>
 <Divider />
@@ -30,6 +30,9 @@
 </section>
 
 <style lang="less">
+	.ampersand {
+		font-family: 'Petit Formal Script', cursive;
+	}
 	.top-section {
 		margin: 0 auto;
 	}
