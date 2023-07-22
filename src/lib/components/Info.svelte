@@ -6,17 +6,26 @@
 	<h5>Bröllop för</h5>
 	<h1 class="title">Lisa & Pétur</h1>
 	<h5>Första Juni 2024</h5>
-	<p style="text-align:center">Här hittar ni all information om bröllopet den 1 Juni 2024</p>
 </section>
 <Divider />
 <section>
 	<h2 id="info">Information</h2>
+	<div class="info-title">Generell information</div>
 	<p>
 		Vigseln hålls i Löddeköpinge kyrka och startar kl.14.30 efterföljt med bröllopsfest och middag
-		på Västrahögsgården i Hög. Klädsel: Sommarfin Presenter: Gällande presenter har vi redan allt vi
-		behöver så vi önskar oss därför istället ett bidrag till bröllopsfesten (eller bröllopsresan?)
-		så att vi kan få en extra minnesvärd dag tillsammans med er. Vi älskar era barn, men denna dag
-		älskar vi även er barnvakt!
+		på Västrahögsgården i Hög.
+	</p>
+	<div class="info-title">Klädsel</div>
+	<p>Vi är inte mycket till övers för propra kläder, därför önskar vi bara sommarfin klädsel.</p>
+	<div class="info-title">Presenter</div>
+	<p>
+		Eran närvaro är en gåva nog, men om ni skulle vilja ge oss någonting så önskar vi oss ett bidrag
+		till våran bröllopsresa.
+	</p>
+	<span class="info-title">Barn </span>
+	<p>
+		Den här dagen vill vi spendera med er vuxna, lokalen vi har är tyvärr inte barnanpassad och vi
+		ämnar att ha en rejäl fest.
 	</p>
 </section>
 
@@ -26,5 +35,10 @@
 	}
 	.title {
 		margin: 0 auto;
+	}
+
+	.info-title {
+		font-size: 24px;
+		font-family: 'Migra Regular', sans-serif;
 	}
 </style>
