@@ -19,13 +19,19 @@
 	<div style="display: contents">%sveltekit.body%</div>
 </body>
 <style lang="less">
-	@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamon:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap');
+
+	@font-face {
+		font-family: "Migra Regular";
+		src: url("./fonts/Migra-Regular.woff2")
+	}
 
 	html,
 	body {
 		max-width: 1200px;
 		margin: 0 auto;
-		font-family: 'Cormorant Garamond', serif;
+		font-family: 'EB Garamond', serif;
 		scroll-behavior: smooth;
 	}
 
@@ -43,11 +49,15 @@
 	h3,
 	h4,
 	h5 {
-		font-family: 'EB Garamond', serif;
+		font-family: 'Migra Regular', sans-serif;
 		text-align: center;
-		font-style: italic;
 		font-weight: 500;
+	}
 
+	h5 {
+		font-family: 'Petit Formal Script', cursive;
+		font-size: 24px;
+		margin: 1rem auto;
 	}
 
 	h1 {

@@ -2,7 +2,9 @@
 </script>
 
 <section class="top-section">
-	<h1 class="title">Välkommen till Lisa och Péturs bröllop</h1>
+	<h5>Bröllop för</h5>
+	<h1 class="title">Pétur & Lisa</h1>
+	<h5>Första Juni 2024</h5>
 	<p style="text-align:center">Här hittar ni all information om bröllopet den 1 Juni 2024</p>
 </section>
 <section>
@@ -18,6 +20,9 @@
 
 <style lang="less">
 	.top-section {
-		margin-top: 2rem;
+		margin: 0 auto;
+	}
+	.title {
+		margin: 0 auto;
 	}
 </style>

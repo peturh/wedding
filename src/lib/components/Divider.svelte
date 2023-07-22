@@ -2,11 +2,15 @@
 </script>
 
 <section>
-	<img alt="flower divider" src="./flower-divider.png" />
+	<img alt="flower divider" src="./divider.png" />
 </section>
 
 <style lang="less">
+	section {
+		margin: 2rem auto;
+	}
 	img {
-		width: 800px;
+		width: 100%;
+		height: 20px;
 	}
 </style>
