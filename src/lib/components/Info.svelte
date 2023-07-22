@@ -1,4 +1,5 @@
 <script lang="ts">
+	import Divider from './Divider.svelte';
 </script>
 
 <section class="top-section">
@@ -7,6 +8,7 @@
 	<h5>Första Juni 2024</h5>
 	<p style="text-align:center">Här hittar ni all information om bröllopet den 1 Juni 2024</p>
 </section>
+<Divider />
 <section>
 	<h2 id="info">Information</h2>
 	<p>
