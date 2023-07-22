@@ -4,7 +4,7 @@
 
 <section class="top-section">
 	<h5>Bröllop för</h5>
-	<h1 class="title">Pétur & Lisa</h1>
+	<h1 class="title">Lisa & Pétur</h1>
 	<h5>Första Juni 2024</h5>
 	<p style="text-align:center">Här hittar ni all information om bröllopet den 1 Juni 2024</p>
 </section>
