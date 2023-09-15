@@ -10,12 +10,11 @@
 <Divider />
 <section>
 	<h2 id="info">Information</h2>
-	<div class="info-title">Generell information</div>
 	<p>
 		Vigseln hålls i Löddeköpinge kyrka och startar kl.14.30 efterföljt med bröllopsfest och middag
 		på Västrahögsgården i Hög.
 	</p>
-	<div class="info-title">Klädsel</div>
+	<span class="info-title">Klädsel</span>
 	<p>Vi är inte mycket till övers för propra kläder, därför önskar vi bara sommarfin klädsel.</p>
 	<div class="info-title">Presenter</div>
 	<p>

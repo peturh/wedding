@@ -1,5 +1,6 @@
 <script lang="ts">
-	import Header from '$lib/components/Header.svelte';
+	import '../app.css';
+
 	import Info from '$lib/components/Info.svelte';
 	import Osa from '$lib/components/OSA.svelte';
 	import Contact from '$lib/components/Contact.svelte';
@@ -18,6 +19,3 @@
 <Hotels />
 <Divider />
 <Map />
-
-<style lang="less">
-</style>
