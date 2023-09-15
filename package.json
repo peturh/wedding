@@ -2,6 +2,9 @@
 	"name": "wedding",
 	"version": "0.0.1",
 	"private": true,
+	"prisma": {
+		"seed": "tsx ./prisma/seed.ts"
+	},
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",

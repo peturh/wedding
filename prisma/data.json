@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "Pétur Hjartarson",
+        "phoneNumber": "0763194458",
+        "email": "petur.hjartarson@gmail.com",
+        "fullVegeterian": false
+    },
+    {
+        "id": "2",
+        "name": "Lisa Stenström Lindberg",
+        "phoneNumber": "0707783527",
+        "email": "lisamaria.lindberg@gmail.com",
+        "fullVegeterian": false
+    }
+]
