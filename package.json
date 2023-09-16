@@ -6,7 +6,7 @@
 		"seed": "tsx prisma/seed.ts"
 	},
 	"scripts": {
-		"prebuild": "tsx prisma/seed.ts",
+		"prebuild": "tsx prisma/seed.ts --tsconfig ../tscondfig.json",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
