@@ -5,13 +5,13 @@
 
 <section>
 	<h2 id="osa">Om svar anhålles</h2>
-	<p>O.s.a senast 1 mars 2024 i formuläret nedan.</p>
+	<p>O.s.a senast 1 mars 2024 i formuläret nedan. En person per formulär.</p>
 
 	<form method="post">
 		{#if form?.missing}<p class="error">Missing field required!</p>{/if}
 		<div class="mb-4">
 			<label for="name">Namn</label>
-			<input name="name" placeholder="Namn" type="text" value={form?.name ?? ''} />
+			<input name="name" placeholder="Namn" type="text" value={form?.name ?? ''} required />
 		</div>
 		<div class="mb-4">
 			<label for="phoneNumber">Telefonnummer</label>
@@ -21,13 +21,14 @@
 				placeholder="Telefonnummer"
 				type="text"
 				value={form?.phoneNumber ?? ''}
+				required
 			/>
 		</div>
 
 		<div class="mb-4">
 			<label for="email">Email</label>
 
-			<input name="email" placeholder="Email" type="email" value={form?.email ?? ''} />
+			<input name="email" placeholder="Email" type="email" value={form?.email ?? ''} required />
 		</div>
 
 		<div class="mb-4">
@@ -35,8 +36,8 @@
 			<input name="foodPreference" type="text" value={form?.foodPreference ?? ''} />
 		</div>
 		<div class="mb-4">
-			<label for="password">Lösenord som finns i inbjudan</label>
-			<input name="password" type="password" value={form?.password ?? ''} />
+			<label for="password">Lösenordet som står i inbjudan</label>
+			<input name="password" type="password" value={form?.password ?? ''} required />
 		</div>
 		<button class="send-response" type="submit">OSA</button>
 	</form>

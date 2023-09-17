@@ -5,7 +5,7 @@
 <section class="top-section">
 	<h5>Bröllop för</h5>
 	<h1 class="title">Lisa <span class="ampersand">&</span> Pétur</h1>
-	<h5>Första Juni 2024</h5>
+	<h5>Första juni 2024</h5>
 </section>
 <Divider />
 <section>
@@ -18,14 +18,11 @@
 	<p>Vi är inte mycket till övers för propra kläder, därför önskar vi bara sommarfin klädsel.</p>
 	<div class="info-title">Presenter</div>
 	<p>
-		Eran närvaro är en gåva nog, men om ni skulle vilja ge oss någonting så önskar vi oss ett bidrag
-		till våran bröllopsresa.
+		Er närvaro är gåva nog, men om ni vill ge oss någonting önskar vi oss ett bidrag till vår
+		bröllopsresa.
 	</p>
 	<div class="info-title">Barn</div>
-	<p>
-		Den här dagen vill vi spendera med er vuxna, lokalen vi har är tyvärr inte barnanpassad och vi
-		ämnar att ha en rejäl fest.
-	</p>
+	<p>Vigseln och festen är barnfri, med undantag för ammande barn.</p>
 </section>
 
 <style lang="less">

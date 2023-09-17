@@ -3,6 +3,10 @@
 
 <section>
 	<h2 id="bo">Ni behöver någonstans att bo?</h2>
+	<p>
+		Löddeköpinge ligger nära Lund och inte långt från Malmö, se kartan nedan. Här är lite tips på
+		boenden.
+	</p>
 	<div class="info-title">Närmst</div>
 	<p>
 		<a href="http://www.dahlshotell.se/">Sure Hotel by Best Western i Löddeköpinge</a>
