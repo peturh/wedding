@@ -26,6 +26,9 @@
 </section>
 
 <style lang="less">
+	h5 {
+		letter-spacing: 0;
+	}
 	.ampersand {
 		font-family: 'Petit Formal Script', cursive;
 	}
