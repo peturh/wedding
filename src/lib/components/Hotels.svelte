@@ -10,7 +10,7 @@
 	<div class="info-title">Närmst</div>
 	<p>
 		<a href="http://www.dahlshotell.se/">Sure Hotel by Best Western i Löddeköpinge</a>
-		Rabbatkod för oss som har brölopp på Västra Högsgården: XXXXXXX
+		rabattkod för oss som har brölopp på Västra Högsgården: XXXXXXX
 	</p>
 	<div class="info-title">Där vi sover</div>
 	<p><a href="https://badhotelletbarsebackstrand.se/">Badhotellet Barsebäck</a></p>
@@ -18,6 +18,10 @@
 	<p><a href="https://www.grandilund.se/">Grand Hotel i Lund</a></p>
 	<div class="info-title">Billigare i Lund</div>
 	<p><a href="https://ligula.se/motel-l/motel-l-lund/">Motel L i Lund</a></p>
+	<div class="into-title">Fint i Malmö</div>
+	<p><a href="https://mjs.life/">MJs Hotell</a></p>
+	<div class="into-title">Billigare i Malmö</div>
+	<p><a href="https://hotelnhostel.se/">Hotel n Hostels</a></p>
 </section>
 
 <style lang="less">

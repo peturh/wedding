@@ -11,11 +11,11 @@
 <section>
 	<h2 id="info">Information</h2>
 	<p>
-		Vigseln hålls i Löddeköpinge kyrka och startar kl.14.30 efterföljt med bröllopsfest och middag
-		på Västrahögsgården i Hög.
+		Vigseln hålls i Löddeköpinge kyrka och startar kl.14.30 efterföljt av bröllopsfest och middag på
+		Västrahögsgården i Hög.
 	</p>
 	<div class="info-title">Klädsel</div>
-	<p>Vi är inte mycket till övers för propra kläder, därför önskar vi bara sommarfin klädsel.</p>
+	<p>Sommarfin klädsel</p>
 	<div class="info-title">Presenter</div>
 	<p>
 		Er närvaro är gåva nog, men om ni vill ge oss någonting önskar vi oss ett bidrag till vår
