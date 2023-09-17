@@ -88,7 +88,7 @@
 		padding: 1rem;
 		color: black;
 	}
-	§.password {
+	.password {
 		background: #f8aeae;
 	}
 
