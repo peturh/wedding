@@ -14,14 +14,14 @@
 		Vigseln hålls i Löddeköpinge kyrka och startar kl.14.30 efterföljt med bröllopsfest och middag
 		på Västrahögsgården i Hög.
 	</p>
-	<span class="info-title">Klädsel</span>
+	<div class="info-title">Klädsel</div>
 	<p>Vi är inte mycket till övers för propra kläder, därför önskar vi bara sommarfin klädsel.</p>
 	<div class="info-title">Presenter</div>
 	<p>
 		Eran närvaro är en gåva nog, men om ni skulle vilja ge oss någonting så önskar vi oss ett bidrag
 		till våran bröllopsresa.
 	</p>
-	<span class="info-title">Barn </span>
+	<div class="info-title">Barn</div>
 	<p>
 		Den här dagen vill vi spendera med er vuxna, lokalen vi har är tyvärr inte barnanpassad och vi
 		ämnar att ha en rejäl fest.
@@ -37,10 +37,5 @@
 	}
 	.title {
 		margin: 0 auto;
-	}
-
-	.info-title {
-		font-size: 24px;
-		font-family: 'Migra Regular', sans-serif;
 	}
 </style>

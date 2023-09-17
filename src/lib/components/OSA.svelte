@@ -31,11 +31,6 @@
 		</div>
 
 		<div class="mb-4">
-			<label for="fullVegetarian">Äter bara vegetariskt</label>
-
-			<input name="fullVegeterian" type="checkbox" value={form?.fullVegeterian ?? ''} />
-		</div>
-		<div class="mb-4">
 			<label for="foodPreference">Allergier eller matpreferenser</label>
 			<input name="foodPreference" type="text" value={form?.foodPreference ?? ''} />
 		</div>

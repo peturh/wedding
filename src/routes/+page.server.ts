@@ -16,14 +16,12 @@ export const actions = {
         let name = data.get("name") || ''
         let phoneNumber = data.get("phoneNumber") || ''
         let email = data.get("email") || ''
-        let fullVegeterian = data.get("fullVegeterian") || ''
         let foodPreference = data.get("foodPreference") || ''
         await prisma.guest.create({
             data: {
                 name: name.toString(),
                 phoneNumber: phoneNumber.toString(),
                 email: email.toString(),
-                fullVegeterian: fullVegeterian ? true : false,
                 foodPreference: foodPreference.toString()
             }
         });

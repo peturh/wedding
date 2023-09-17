@@ -17,6 +17,5 @@ model Guest {
   createdAt       DateTime @default(now())
   phoneNumber     String
   email           String
-  fullVegeterian  Boolean @default(false)
   foodPreference  String @default ("")
 }

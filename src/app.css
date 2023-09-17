@@ -16,17 +16,19 @@ html,
 body {
     max-width: 1200px;
     margin: 0 auto;
-    font-family: 'EB Garamond', serif;
+    font-family: 'Migra Regular', serif;
     scroll-behavior: smooth;
+    letter-spacing: 1px;
 }
 
 section {
-    max-width: 800px;
+    max-width: 600px;
     margin: 0 auto;
 }
 
 p {
-    font-size: 24px;
+    font-size: 18px;
+    margin: 1rem auto;
 }
 
 h1,
@@ -96,6 +98,8 @@ h2 {
 .info-title {
     font-size: 24px;
     font-family: 'Migra Regular', sans-serif;
+    margin: 1rem 0;
+    text-align: center;
 }
 
 /* a {
