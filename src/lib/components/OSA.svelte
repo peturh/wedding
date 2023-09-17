@@ -33,11 +33,22 @@
 
 		<div class="mb-4">
 			<label for="foodPreference">Allergier eller matpreferenser</label>
-			<input name="foodPreference" type="text" value={form?.foodPreference ?? ''} />
+			<input
+				placeholder="Allergier eller matpreferenser"
+				name="foodPreference"
+				type="text"
+				value={form?.foodPreference ?? ''}
+			/>
 		</div>
 		<div class="mb-4">
 			<label for="password">Lösenordet som står i inbjudan</label>
-			<input name="password" type="password" value={form?.password ?? ''} required />
+			<input
+				placeholder="********"
+				name="password"
+				type="password"
+				value={form?.password ?? ''}
+				required
+			/>
 		</div>
 		<button class="send-response" type="submit">OSA</button>
 	</form>
