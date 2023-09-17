@@ -7,7 +7,9 @@
 
 @font-face {
     font-family: "Migra Regular";
-    src: url("/fonts/Migra-Regular.woff2")
+    src: url("/fonts/Migra-Regular.woff2");
+    font-display: swap;
+
 }
 
 html,
