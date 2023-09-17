@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: "Migra Regular";
-    src: url("/fonts/Migra-Regular.woff2");
+    src: url("/fonts/Migra-Regular.ttf");
     font-display: swap;
 
 }
@@ -17,7 +17,14 @@ body {
     margin: 0 auto;
     font-family: 'Migra Regular', serif;
     scroll-behavior: smooth;
+    text-rendering: auto;
+    font-smooth: auto;
+
+
     letter-spacing: 1px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale; 
 }
 
 section {

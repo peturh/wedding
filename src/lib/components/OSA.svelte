@@ -9,7 +9,8 @@
 
 <section>
 	<h2 id="osa">Om svar anhålles</h2>
-	<p>O.s.a senast 1 mars 2024 i formuläret nedan. En person per formulär.</p>
+	<p>O.s.a senast första mars 2024.</p>
+	<p>En person per formulär.</p>
 
 	<form method="post" use:enhance>
 		<div class="mb-4">
@@ -88,7 +89,7 @@
 		padding: 1rem;
 		color: black;
 	}
-	.password {
+	§.password {
 		background: #f8aeae;
 	}
 
