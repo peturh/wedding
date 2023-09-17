@@ -22,9 +22,9 @@ export const actions = {
             data: {
                 name: name.toString(),
                 phoneNumber: phoneNumber.toString(),
-                "email": email.toString(),
-                "fullVegeterian": fullVegeterian ? true : false,
-                "foodPreference": foodPreference.toString()
+                email: email.toString(),
+                fullVegeterian: fullVegeterian ? true : false,
+                foodPreference: foodPreference.toString()
             }
         });
         throw redirect(303, `/`)

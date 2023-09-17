@@ -17,10 +17,10 @@
 			<label for="phoneNumber">Telefonnummer</label>
 
 			<input
-				name="phoneNumer"
+				name="phoneNumber"
 				placeholder="Telefonnummer"
 				type="text"
-				value={form?.phoneNumer ?? ''}
+				value={form?.phoneNumber ?? ''}
 			/>
 		</div>
 
