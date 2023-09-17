@@ -7,12 +7,16 @@
 	import Hotels from '$lib/components/Hotels.svelte';
 	import Map from '$lib/components/Map.svelte';
 	import Divider from '$lib/components/Divider.svelte';
+
+	import type { ActionData } from './$types';
+	export let form: ActionData;
+	console.log(form);
 </script>
 
 <!-- <Header /> -->
 <Info />
 <Divider />
-<Osa />
+<Osa {form} />
 <Divider />
 <Contact />
 <Divider />

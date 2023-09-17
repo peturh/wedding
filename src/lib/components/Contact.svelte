@@ -22,6 +22,6 @@
 	<div class="info-title">Maid of honour</div>
 	<p>
 		Lotta Jansson, <a href="tel:0734306421">0734-306421</a>,
-		<a href="mailto:pelle.kjellander@gmail.com">pelle.kjellander@gmail.com</a>
+		<a href="mailto:lottaajansson@hotmail.com">lottaajansson@hotmail.com</a>
 	</p>
 </section>
