@@ -6,14 +6,14 @@
 @font-face {
     font-family: "Migra Regular";
     src: url("/fonts/Migra-Regular.ttf");
-    font-display: swap;
+    font-display: block; /* Fix flickering */
 
     
 }
 @font-face {
     font-family: "Petit Formal Script";
     src: url("/fonts/PetitFormalScript-Regular.ttf");
-    font-display: swap;
+    font-display: block; /* Fix flickering */
 
 }
 html,
