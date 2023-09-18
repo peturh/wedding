@@ -58,6 +58,7 @@ h1 {
 
 h2 {
     font-size: 32px;
+    margin-bottom: 1rem;
 }
 
 .flower-wrapper {
@@ -127,13 +128,17 @@ h2 {
 } */
 
 a {
-    @apply underline text-blue-600 hover:text-blue-800 visited:text-purple-600
+    @apply  text-black hover:text-gray-500 underline visited:text-black
 }
 
 input[type=text], input[type=email], input[type=password] {
-    @apply shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight
+    @apply shadow appearance-none border rounded w-full py-2 px-3 text-black leading-tight
 }
 
 label {
     @apply block text-gray-700 text-sm font-bold mb-2
+}
+
+.grid {
+    font-size:20px;
 }

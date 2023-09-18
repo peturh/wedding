@@ -3,25 +3,48 @@
 
 <section>
 	<h2 id="kontakt">Kontaktuppgifter</h2>
-	<div class="info-title">Toastmaster</div>
-	<p>
-		Hjalti Hjartarson, <a href="tel:003546928114">+3546928114</a>,
-		<a href="mailto:hjalti.hjartarson@gmail.com">hjalti.hjartarson@gmail.com</a>
-	</p>
-	<p>
-		Det är till Hjalti ni hör av er om ni önskar hålla tal, sjunga något eller liknande på
-		bröllopsfesten.
-	</p>
 
-	<div class="info-title">Bestman</div>
-	<p>
-		Pelle Kjellander, <a href="tel:0706337280">0706-337280</a>,
-		<a href="mailto:pelle.kjellander@gmail.com">pelle.kjellander@gmail.com</a>
-	</p>
+	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
+		<div class="col-span-2 text-right">Toastmaster</div>
+		<div class="col-span-4 mx-4">
+			Hjalti Hjartarson, <a href="tel:003546928114">+3546928114</a>,
+			<a href="mailto:hjalti.hjartarson@gmail.com">hjalti.hjartarson@gmail.com</a>
 
-	<div class="info-title">Maid of honour</div>
-	<p>
-		Lotta Jansson, <a href="tel:0734306421">0734-306421</a>,
-		<a href="mailto:lottaajansson@hotmail.com">lottaajansson@hotmail.com</a>
-	</p>
+			<div class="col-span-4 row-span-2 mt-4">
+				Det är till Hjalti ni hör av er om ni önskar hålla tal, sjunga något eller liknande på
+				bröllopsfesten.
+			</div>
+		</div>
+	</div>
+
+	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
+		<div class="col-span-2 text-right">Bestman</div>
+		<div class="col-span-4 mx-4">
+			Pelle Kjellander, <a href="tel:0706337280">0706-337280</a>,
+			<a href="mailto:pelle.kjellander@gmail.com">pelle.kjellander@gmail.com</a>
+		</div>
+	</div>
+
+	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
+		<div class="col-span-2 text-right">Maid of honour</div>
+		<div class="col-span-4 mx-4">
+			Lotta Jansson, <a href="tel:0734306421">0734-306421</a>,
+			<a href="mailto:lottaajansson@hotmail.com">lottaajansson@hotmail.com</a>
+		</div>
+	</div>
+
+	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
+		<div class="col-span-2 text-right">Brudgum</div>
+		<div class="col-span-4 mx-4">
+			Pétur G. Hjartarson, <a href="tel:0763194458">0763-194458</a>,
+			<a href="mailto:petur.hjartarson@gmail.com">petur.hjartarson@gmail.com</a>
+		</div>
+	</div>
+	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
+		<div class="col-span-2 text-right">Brud</div>
+		<div class="col-span-4 mx-4">
+			Lisa Stenström Lindberg, <a href="tel:0707783527">0707-783527</a>,
+			<a href="mailto:lisamaria.lindberg@gmail.com">lisamaria.lindberg@gmail.com</a>
+		</div>
+	</div>
 </section>

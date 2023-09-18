@@ -70,7 +70,7 @@
 				required
 			/>
 		</div>
-		<button class="send-response" type="submit">OSA</button>
+		<button class="send-response" type="submit">Skicka in</button>
 		{#if form?.success}
 			<div transition:fade class="message success">Tack för din anmälan {form.person}</div>
 		{/if}
