@@ -40,12 +40,18 @@ p {
     margin: 1rem auto;
 }
 
-h1,
+h1 {
+    font-family: 'Migra Regular', serif;
+    text-align: center;
+    font-weight: 500;
+}
+
+
 h2,
 h3,
 h4,
 h5 {
-    font-family: 'Migra Regular', sans-serif;
+    font-family: 'Petit Formal Script', cursive;
     text-align: center;
     font-weight: 500;
 }
