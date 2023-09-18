@@ -11,5 +11,6 @@
 	}
 	img {
 		width: 100%;
+		aspect-ratio: auto 536 / 58;
 	}
 </style>

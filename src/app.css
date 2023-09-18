@@ -73,6 +73,13 @@ h2 {
 
 .flower-image {
     width: 150px;
+    
+    &.top {
+        height: 439px;
+    }
+    &.bot {
+        height: 334px;
+    }
 }
 
 
