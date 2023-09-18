@@ -3,7 +3,8 @@
 </script>
 
 <section class="top-section">
-	<div class="pre-title">Bröllop för</div>
+	<div class="pre-title">Välkomna på</div>
+	<div class="pre-title">bröllop mellan</div>
 	<h1 class="title">Lisa <span class="ampersand">&</span> Pétur</h1>
 	<div class="pre-title">Första juni 2024</div>
 </section>
@@ -28,7 +29,7 @@
 <style lang="less">
 	.pre-title {
 		font-family: 'Petit Formal Script', cursive;
-		font-size: 24px;
+		font-size: 18px;
 		margin: 1rem auto;
 		letter-spacing: 0;
 		text-align: center;
