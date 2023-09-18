@@ -18,9 +18,9 @@
 	<p><a href="https://www.grandilund.se/">Grand Hotel i Lund</a></p>
 	<div class="info-title">Billigare i Lund</div>
 	<p><a href="https://ligula.se/motel-l/motel-l-lund/">Motel L i Lund</a></p>
-	<div class="into-title">Fint i Malmö</div>
+	<div class="info-title">Fint i Malmö</div>
 	<p><a href="https://mjs.life/">MJs Hotell</a></p>
-	<div class="into-title">Billigare i Malmö</div>
+	<div class="info-title">Billigare i Malmö</div>
 	<p><a href="https://hotelnhostel.se/">Hotel n Hostels</a></p>
 </section>
 
