@@ -62,8 +62,4 @@
 	.title {
 		margin: 0 auto;
 	}
-
-	.grid {
-		font-size: 20px;
-	}
 </style>
