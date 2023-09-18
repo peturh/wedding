@@ -3,9 +3,9 @@
 </script>
 
 <section class="top-section">
-	<h5>Bröllop för</h5>
+	<div class="pre-title">Bröllop för</div>
 	<h1 class="title">Lisa <span class="ampersand">&</span> Pétur</h1>
-	<h5>Första juni 2024</h5>
+	<div class="pre-title">Första juni 2024</div>
 </section>
 <Divider />
 <section>
@@ -26,9 +26,14 @@
 </section>
 
 <style lang="less">
-	h5 {
+	.pre-title {
+		font-family: 'Petit Formal Script', cursive;
+		font-size: 24px;
+		margin: 1rem auto;
 		letter-spacing: 0;
+		text-align: center;
 	}
+
 	.ampersand {
 		font-family: 'Petit Formal Script', cursive;
 	}
