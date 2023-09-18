@@ -2,7 +2,6 @@
 	let appended = false;
 	function actionWhenInViewport(e: any) {
 		const observer = new IntersectionObserver((entries) => {
-			console.log('in view', entries);
 			if (entries[0].isIntersecting && appended === false) {
 				let wrapper = document.getElementById('map-wrapper');
 				let iframe = document.createElement('iframe');
