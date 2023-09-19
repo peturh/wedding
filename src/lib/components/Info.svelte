@@ -21,21 +21,21 @@
 	</div>
 
 	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
+		<div class="col-span-2 text-right">Klädsel</div>
+		<div class="col-span-4 mx-4">Sommarfin klädsel</div>
+	</div>
+
+	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
+		<div class="col-span-2 text-right">Barn</div>
+		<div class="col-span-4 mx-4">Vigseln och festen är barnfri, med undantag för ammande barn.</div>
+	</div>
+
+	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
 		<div class="col-span-2 text-right">Presenter</div>
 		<div class="col-span-4 mx-4">
 			Er närvaro är gåva nog, men om ni vill ge oss någonting önskar vi oss ett bidrag till vår
 			bröllopsresa.
 		</div>
-	</div>
-
-	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
-		<div class="col-span-2 text-right">Klädsel</div>
-		<div class="col-span-4 mx-4">Sommarfin klädsel</div>
-	</div>
-
-	<div class="grid grid-rows-1 grid-cols-6 gap-1">
-		<div class="col-span-2 text-right">Barn</div>
-		<div class="col-span-4 mx-4">Vigseln och festen är barnfri, med undantag för ammande barn.</div>
 	</div>
 
 	<p />
