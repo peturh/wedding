@@ -12,12 +12,12 @@
 		<div class="col-span-2 text-right">Närmst</div>
 		<div class="col-span-4 mx-4">
 			<a href="http://www.dahlshotell.se/">Sure Hotel by Best Western i Löddeköpinge</a>
-			Rabattkod: XXXXXXX
+			Ring och uppge att ni ska på brölopp hos Lisa & Pétur så får ni ca ~10% rabatt
 		</div>
 	</div>
 
 	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
-		<div class="col-span-2 text-right">Där vi sover</div>
+		<div class="col-span-2 text-right">Fint en bit bort</div>
 		<div class="col-span-4 mx-4">
 			<a href="https://badhotelletbarsebackstrand.se/">Badhotellet Barsebäck</a>
 		</div>

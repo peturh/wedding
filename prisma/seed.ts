@@ -15,7 +15,6 @@ async function main() {
                 "name": p.name,
                 "phoneNumber": p.phoneNumber,
                 "email": p.email,
-                "fullVegeterian": p.fullVegeterian
 
             }
         })
