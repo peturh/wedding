@@ -10,6 +10,8 @@
 
 	import type { ActionData } from './$types';
 	export let form: ActionData;
+	import { injectSpeedInsights } from "@vercel/speed-insights/sveltekit"
+	injectSpeedInsights();
 </script>
 
 <!-- <Header /> -->
