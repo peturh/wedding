@@ -21,6 +21,32 @@
 	</div>
 
 	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
+		<div class="col-span-2 text-right">Transport dit</div>
+		<div class="col-span-4 mx-4">
+			Från Malmö till kyrkan kan man åka tåg till Kävlinge och sen byta till buss. Det går även buss
+			från Malmö till Kyrkan hela vägen. Från Lund åker det buss hela vägen.<br /> Se
+			<a target="_blank" href="https://www.skanetrafiken.se">Skånetrafiken</a>
+			för reseplanerare.
+		</div>
+	</div>
+
+	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
+		<div class="col-span-2 text-right">Transfer</div>
+		<div class="col-span-4 mx-4">
+			Vi har ordnat med transfer mellan kyrkan och festlokalen. Ska ni åka bil hela dagen får ni
+			gärna maila Pétur eller Lisa så dom vet hur många platser som behövs för buss.
+		</div>
+	</div>
+
+	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
+		<div class="col-span-2 text-right">Transport hem</div>
+		<div class="col-span-4 mx-4">
+			På kvällen hem från festen är det lättast att boka taxi. Vi meddelar Kävlinge taxi att vi
+			behöver flera taxis efter 12 snåret. <a href="https://bolt.eu">Bolt</a> rekomenderas också.
+		</div>
+	</div>
+
+	<div class="grid grid-rows-1 grid-cols-6 gap-1 mb-8">
 		<div class="col-span-2 text-right">Klädsel</div>
 		<div class="col-span-4 mx-4">Sommarfin klädsel</div>
 	</div>
