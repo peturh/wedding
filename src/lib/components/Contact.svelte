@@ -8,7 +8,7 @@
 		<div class="col-span-2 text-right">Toastmaster</div>
 		<div class="col-span-4 mx-4">
 			Hjalti Hjartarson, <a href="tel:003546928114">+3546928114</a>,
-			<a class="email" href="mailto:hjalti.hjartarson@gmail.com">✉️</a>
+			<a class="email" href="mailto:hjaltih@gmail.com">✉️</a>
 
 			<div class="col-span-4 row-span-2 mt-4">
 				Det är till Hjalti ni hör av er om ni önskar hålla tal, sjunga något eller liknande på
